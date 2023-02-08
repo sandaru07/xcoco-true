@@ -25,13 +25,13 @@ let readMore = more.repeat(850)
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
 let str = `
 ╭══〘 ✯✯✯✯✯✯✯✯ 〙═╮
-║    ◉— *BLACK-BOT* —◉
+║    ◉— *XCOCO MD* —◉
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ║➤ *HI, ${taguser}*
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ║➤ *Owner:* Black-KDX
-║➤ *NUMBER:* wa.me/94775207710
-║➤ *Bot ofc:* wa.me/94702262806
+║➤ *NUMBER:* wa.me/94764497078
+║➤ *Bot ofc:* wa.me/94704461999
 ║➤ *UPTIME:* ${uptime}
 ╰══╡✯✯✯✯✯✯✯✯╞══╯
 ..................
@@ -551,7 +551,7 @@ externalAdReply: {
 showAdAttribution: true,
 mediaType: 'VIDEO',
 mediaUrl: null,
-title: '👑 Black » KD 👑',
+title: '👑 XCOCO » MD 👑',
 body: null,
 thumbnail: img,
 sourceUrl: `https://chat.whatsapp.com/LwPNmhUV8P76isIyFgEK8E`
